@@ -1,4 +1,6 @@
 # SKT Kart For KSRTC
+[![Release](https://img.shields.io/github/release/bruttazz/kart-ksrtc.svg?style=flat-square)](https://github.com/bruttazz/kart-ksrtc/releases/latest)
+
 
 <span style="color: yellow;"><b>NB</b>: WIP</span>
 
@@ -19,6 +21,20 @@ place to version control binary files. Anywho I'm soo lazy to learn SVN or other
 
 
 ## Installation
+
+Currently the model is not available under public addons in STK
+
+1. Download and extract the latest release file from [releases](https://github.com/bruttazz/kart-ksrtc/releases/latest). (eg: `ksrtc_vX.X.X.zip`)
+2. Rename the extracted directory to `ksrtc`
+3. Move the file to your OS specific directory (create the parent directory if not already exists).
+  - On Linux: `~/.local/share/supertuxkart/addons/karts`
+  - On Windows: `%APPDATA%/supertuxkart/addons/karts`
+  - On macOS: `~/Library/Application Support/supertuxkart/addons/karts`
+4. Open SuperTuxkart, and find the kart under standard karts (:))
+
+more more info refer : [stk testing docs](https://supertuxkart.net/Making_Karts:_Testing)
+
+
 
 ## Development
 
