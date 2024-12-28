@@ -61,7 +61,7 @@ random and are not following any stereotypes.
 
 ## Credits
 
-- Base model of KSRTC by [Anandhukrishnan](https://sketchfab.com/3d-models/ksrtc-fbx-511514fc3444477d91116eed452d882c) ( licensed under CC )
+- Base model of KSRTC by [Akhilvictor46](https://sketchfab.com/3d-models/ksrtc-fbx-511514fc3444477d91116eed452d882c) ( licensed under CC )
 - The base character model [Phil](https://studio.blender.org/characters/phil/v1/) by Blender Studio ( licensed under CC By 4.0 )
 - [KeralaSRTC](https://www.keralartc.com/)
 - Made in [Blender](https://www.blender.org/)
