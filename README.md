@@ -11,6 +11,7 @@ Nothing special, just a binary dump (🙃) of a KSRTC (Kerala State Road Transpo
 
 - Migrate to appropriate version controller, like subversion (I admit Git is a terrible
 place for version control binary files. Anywho I'm too lazy to learn SVN or other mangers rn (feel free to contribute)
+- Fix rear wheel texture baking issues and other baking glitches.
 - Add STK character animations.
 - Make it pretty, and more cartoonish
 - Adding shadows and other properties.
