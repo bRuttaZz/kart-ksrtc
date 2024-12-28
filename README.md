@@ -9,11 +9,10 @@ Nothing special, just a binary dump (🙃) of a KSRTC (Kerala State Road Transpo
 
 ## To Dos
 
-- Migrate to appropriate version controller, like subversion (I admit Git is a terrible 
+- Migrate to appropriate version controller, like subversion (I admit Git is a terrible
 place for version control binary files. Anywho I'm too lazy to learn SVN or other mangers rn (feel free to contribute)
-- Add STK character animations. 
+- Add STK character animations.
 - Make it pretty, and more cartoonish
-- Make it trade mark free ( If possible )
 - Adding shadows and other properties.
 - A good character (driver)
 - Package and push to STK Addons. :)
@@ -40,7 +39,7 @@ for more info refer [stk testing docs](https://supertuxkart.net/Making_Karts:_Te
 ### Tooling
 - Blender 3.8 or above
 - [SuperTuxKart Blender Addons](https://github.com/supertuxkart/stk-blender) for `.spm` export
-- Documentation: The [STK kart's doc](https://supertuxkart.net/Making_Karts) 
+- Documentation: The [STK kart's doc](https://supertuxkart.net/Making_Karts)
 
 #### Character
 
@@ -67,7 +66,6 @@ random and are not following any stereotypes.
 - Made in [Blender](https://www.blender.org/)
 - [SuperTuxKart Blender Addons](https://github.com/supertuxkart/stk-blender)
 - Idea developed from [Kochi FOSS](https://kochifoss.org/)
-- [TATA Motors](https://www.tatamotors.com/) (for their trade mark (inherited from the original model))
 
 ## License
 - License text for kart : [LICENSE.kart](./LICENSE.kart)
